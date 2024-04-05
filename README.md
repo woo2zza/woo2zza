@@ -1,18 +1,19 @@
 <p align="center">
   <!-- 큰 제목 스타일 -->
-  <h1 style="font-size:24px; font-weight:bold; color: #0366d6;">👥 Git clone 'Sim woo seok ' 👥   <img src="![aaa (1)](https://github.com/woo2zza/woo2zza/assets/139437129/2a08375a-f652-465e-a464-20b4e5d78be5))
-" width="100" /></h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Wooseok+Sim😊;" />
+
 </p>
 
 <hr style="border: 1px solid gray;"/>
 
 <div align="center">
   <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" width="300" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Wooseok+Sim😊;" />
+    <h1 style="font-size:24px; font-weight:bold; color: #0366d6;">👥 Git clone 'Sim woo seok ' 👥   <img src="![aaa (1)](https://github.com/woo2zza/woo2zza/assets/139437129/2a08375a-f652-465e-a464-20b4e5d78be5))
+" width="100" /></h1>
 <a href="https://solved.ac/dntjr5741/">
-  <div align="center">
+<!--   <div align="center">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjr5741" />
-  </div>
+  </div> -->
 </a>
 </div>
 

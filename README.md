@@ -1,6 +1,11 @@
 <p align="center">
-  <h1 style="font-size:50px; font-weight:bold; color: #0366d6;">Git clone 'Sim woo seok' <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="100" /></h1>
+  <!-- 큰 제목 스타일 -->
+  <h1 style="font-size:24px; font-weight:bold; color: #0366d6;">👥 Git clone 'Sim woo seok ' 👥</h1>
+  <br>
+  <!-- 이미지 추가 -->
+  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="100" />
 </p>
+
 
 <hr style="border: 1px solid gray;"/>
 

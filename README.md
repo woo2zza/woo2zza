@@ -10,10 +10,13 @@
 
  
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" style="max-width: 48%; margin-right: 10px;" />
+  <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" style="max-width: 50%; margin-right: 10px;" />
+  <div>
+    <h2>hi , i'm wooseok</h2>
   <a href="https://solved.ac/dntjr5741/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjr5741" />
   </a>
+    </div>
 </div>
 
 <hr style="border: 2px solid gray;"/>

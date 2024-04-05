@@ -2,14 +2,39 @@
   <!-- 큰 제목 스타일 -->
   <h1 style="font-size:24px; font-weight:bold; color: #0366d6;">👥 Git clone 'Sim woo seok ' 👥   <img src="![aaa (1)](https://github.com/woo2zza/woo2zza/assets/139437129/2a08375a-f652-465e-a464-20b4e5d78be5))
 " width="100" /></h1>
-
-
-
 </p>
-
 
 <hr style="border: 1px solid gray;"/>
 
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwjdals12)](https://solved.ac/dhwjdals12/)
+<br/>
+<br/>
+🤔 사용 가능한 기술 스택
+<br/>
+<br/>
+<span>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
+</span>
+<br/>
+<span>
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/>
+</span>
+<br/>
+<span>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+</span>
+<br/>
+<span>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/>
+
+</span>
  
 <p align="center">
   <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" style="max-width: 48%;" />

@@ -1,7 +1,8 @@
 <p align="center">
   <!-- 큰 제목 스타일 -->
-  <h1 style="font-size:24px; font-weight:bold; color: #0366d6;">👥 Git clone 'Sim woo seok ' 👥   <img src="![aaa (1)](https://github.com/woo2zza/woo2zza/assets/139437129/7d06a459-94d7-4848-92d6-7ad6c1587df6)
+  <h1 style="font-size:24px; font-weight:bold; color: #0366d6;">👥 Git clone 'Sim woo seok ' 👥   <img src="![aaa (1)](https://github.com/woo2zza/woo2zza/assets/139437129/2a08375a-f652-465e-a464-20b4e5d78be5))
 " width="100" /></h1>
+
 
 
 </p>

@@ -7,17 +7,21 @@
 <hr style="border: 1px solid gray;"/>
 
 
-
- 
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" style="max-width: 50%; margin-right: 10px;" />
-  <div>
-    <h2>hi , i'm wooseok</h2>
-<!--   <a href="https://solved.ac/dntjr5741/">
+   <div>
+     <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Wooseok+Sim😊;" />
+</h1>
+  <a href="https://solved.ac/dntjr5741/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjr5741" />
-  </a> -->
-    </div>
+  </a>
+        </div>
 </div>
+
+
+
+
 
 <hr style="border: 2px solid gray;"/>
 

@@ -13,9 +13,9 @@
   <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" style="max-width: 50%; margin-right: 10px;" />
   <div>
     <h2>hi , i'm wooseok</h2>
-  <a href="https://solved.ac/dntjr5741/">
+<!--   <a href="https://solved.ac/dntjr5741/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjr5741" />
-  </a>
+  </a> -->
     </div>
 </div>
 

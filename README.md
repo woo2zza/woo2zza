@@ -41,11 +41,10 @@
 
 <hr style="border: 2px solid gray;"/>
 
-<div style="text-align: center;">
-
-### 🐍 My Contributions 🐍
-
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
 </div>
+
 
 <img src="https://github.com/woo2zza/woo2zza/blob/output/github-contribution-grid-snake.svg"/>
 <!--

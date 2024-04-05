@@ -8,17 +8,13 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjr5741)](https://solved.ac/dhwjdals12/)
-<span>
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/>
-
-</span>
  
-<p align="center">
-  <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" style="max-width: 48%;" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" style="max-width: 48%; margin-right: 10px;" />
+  <a href="https://solved.ac/dntjr5741/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjr5741" />
+  </a>
+</div>
 
 <hr style="border: 2px solid gray;"/>
 

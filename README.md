@@ -1,16 +1,17 @@
 # Git clone 'Sim woo seok' <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="100" />
 >
-
+<hr style="border: 2px solid gray;"/>
 
  
 <p align="center">
   <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" style="max-width: 48%;" />
-
 </p>
 
 <hr style="border: 2px solid gray;"/>
 
-### My tech stack 📚
+<div align="center">
+  <h3>📚 My tech stack 📚</h3>
+</div>
 
 #### 📋 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

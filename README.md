@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width: 48%;" />
 <p align="center">
   <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" style="max-width: 48%;" />
-  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width: 48%;" />
+
 </p>
 
 ### My tech stack 📚

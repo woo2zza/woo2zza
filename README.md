@@ -1,4 +1,4 @@
-# Git clone 'Sim woo seok'  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width: 100%;" />
+# Git clone 'Sim woo seok'  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width: 30%;" />
 
 
  

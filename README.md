@@ -1,6 +1,10 @@
-# Git clone 'Sim woo seok' <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="100" />
->
-<hr style="border: 2px solid gray;"/>
+<p align="center">
+  <span style="font-size:24px; font-weight:bold; color: #0366d6;">Git clone 'Sim woo seok'</span>
+  <br>
+  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="100" />
+</p>
+
+<hr style="border: 1px solid gray;"/>
 
  
 <p align="center">

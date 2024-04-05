@@ -8,7 +8,7 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwjdals12)](https://solved.ac/dhwjdals12/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dntjr5741)](https://solved.ac/dhwjdals12/)
 <br/>
 <br/>
 🤔 사용 가능한 기술 스택

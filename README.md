@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src={https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77} />
+
 ### My tech stack 📚
 
 #### 📋 Languages

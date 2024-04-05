@@ -1,4 +1,4 @@
-## Git clone 'Sim woo seok' ![indiaparrot](https://github.com/woo2zza/woo2zza/assets/139437129/06a7e105-b6b5-48aa-b77a-1109b3d1c27b)
+# Git clone 'Sim woo seok' ![indiaparrot](https://github.com/woo2zza/woo2zza/assets/139437129/06a7e105-b6b5-48aa-b77a-1109b3d1c27b)
 
 
   <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" style="max-width: 100%;" />

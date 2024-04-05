@@ -8,6 +8,8 @@
 
 </p>
 
+<hr style="border: 2px solid gray;"/>
+
 ### My tech stack 📚
 
 #### 📋 Languages
@@ -37,8 +39,14 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<hr style="border: 2px solid gray;"/>
 
-#### 🐍 My Contributions 🐍
+<div style="text-align: center;">
+
+### 🐍 My Contributions 🐍
+
+</div>
+
 <img src="https://github.com/woo2zza/woo2zza/blob/output/github-contribution-grid-snake.svg"/>
 <!--
 **woo2zza/woo2zza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

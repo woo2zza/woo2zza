@@ -1,6 +1,5 @@
 <p align="center">
-  <h1 style="font-size:50px; font-weight:bold; color: #0366d6;">Git clone 'Sim woo seok'</h1>
-  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="100" />
+  <h1 style="font-size:50px; font-weight:bold; color: #0366d6;">Git clone 'Sim woo seok' <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="100" /></h1>
 </p>
 
 <hr style="border: 1px solid gray;"/>

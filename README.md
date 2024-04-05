@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size:50px; font-weight:bold; color: #0366d6;">Git clone 'Sim woo seok'</span>
+  <h1 style="font-size:50px; font-weight:bold; color: #0366d6;">Git clone 'Sim woo seok'</h1>
   <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" width="100" />
 </p>
 

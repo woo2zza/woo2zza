@@ -7,7 +7,7 @@
 <hr style="border: 1px solid gray;"/>
 
 <div align="center">
-  <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" width="300" />
+  <img src="https://github.com/woo2zza/woo2zza/assets/139437129/3287c953-c3a2-4f13-b241-9d095227ef77" width="500" />
     <h1 style="font-size:24px; font-weight:bold; color: #0366d6;">👥 Git clone 'Sim woo seok ' 👥   <img src="![aaa (1)](https://github.com/woo2zza/woo2zza/assets/139437129/2a08375a-f652-465e-a464-20b4e5d78be5))
 " width="100" /></h1>
 <a href="https://solved.ac/dntjr5741/">

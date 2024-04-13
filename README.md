@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 큰 제목 스타일 -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Welecome!+👋;+I'm+Wooseok😊;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Welecome!+👋;+I'm+Wooseok😊😊😊;" />
 
 </p>
 
